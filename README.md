@@ -30,4 +30,4 @@ sudo apt-get install exiftool
 
 exiftool img.jpg
 
-Thanks to gnsJhenJie[https://github.com/gnsJhenJie/], who makes this more beautiful~~
+Thanks to [gnsJhenJie](https://github.com/gnsJhenJie/), who makes this more beautiful~~
